@@ -1,0 +1,2 @@
+# AntiAdblock
+Removes Adblock Warnings
