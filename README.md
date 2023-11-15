@@ -1,2 +1,2 @@
 # AntiAdblock
-Removes Adblock Warnings
+Removes Adblock Warnings (Including YouTube ones)
